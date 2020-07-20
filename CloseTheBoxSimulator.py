@@ -7,7 +7,7 @@ dieB = 0
 dieSum = 0
 gamesWon = 0
 gamesLost = 0
-gamesToPlay = 1000  # how many time to play the game
+gamesToPlay = 1  # how many time to play the game
 gamesToLose = 100
 
 def reset_the_box(thebox):
